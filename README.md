@@ -13,7 +13,6 @@ O sistema solicita o nome do aluno e três notas, calcula a média final e infor
 ## Tecnologias utilizadas
 
 - Java
-- Programação Orientada a Objetos
 - Scanner para entrada de dados
 - Estruturas condicionais
 
@@ -29,7 +28,7 @@ calculadora-media-java/
 
 ## Como executar
 
-1. Abra a pasta do projeto no Visual Studio Code, Eclipse, IntelliJ IDEA ou NetBeans.
+1. Abra a pasta do projeto no Visual Studio Code ou Eclipse.
 2. Compile os arquivos Java:
 
 ```bash
