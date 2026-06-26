@@ -6,25 +6,15 @@ Projeto simples desenvolvido em Java para praticar conceitos de programação or
 
 O sistema solicita o nome do aluno e três notas, calcula a média final e informa a situação do estudante:
 
-- Aprovado: média maior ou igual a 7,0
-- Em recuperação: média maior ou igual a 5,0 e menor que 7,0
-- Reprovado: média menor que 5,0
+* Aprovado: média maior ou igual a 7,0
+* Em recuperação: média maior ou igual a 5,0 e menor que 7,0
+* Reprovado: média menor que 5,0
 
 ## Tecnologias utilizadas
 
-- Java
-- Scanner para entrada de dados
-- Estruturas condicionais
-
-## Estrutura do projeto
-
-```text
-calculadora-media-java/
-├── src/
-│   ├── Aluno.java
-│   └── Main.java
-└── README.md
-```
+* Java
+* Scanner para entrada de dados
+* Estruturas condicionais
 
 ## Como executar
 
@@ -32,7 +22,7 @@ calculadora-media-java/
 2. Compile os arquivos Java:
 
 ```bash
-javac src/*.java
+javac src/\*.java
 ```
 
 3. Execute o programa:
@@ -44,3 +34,4 @@ java -cp src Main
 ## Autor
 
 Anderson Biasotto
+
